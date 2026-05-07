@@ -1,8 +1,0 @@
-Task 1:
-Create a dynamically allocated 2D array using pointers (int **arr) and:
-Fill it with values
-Print it
-Free all allocated memory properly
-
-Task 2:
-Merge two sorted arrays into a third array using only pointers, without using indexing.
